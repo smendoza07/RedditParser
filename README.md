@@ -15,10 +15,12 @@ To run this project, you will need to have the following installed:
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Open the `main.py` file and add your Reddit API credentials.
-3. Select which subreddit you will be crawling and that max file size and total max data size.
-4. Run the script and start collecting data.
-5. The collected data will be stored in `reddit_data_{file_num}.json` file.
+2. Run pipenv shell to create a virtual dev environment
+3. Run "pipenv install --dev" to install all required dependencies.
+4. Open the `main.py` file and add your Reddit API credentials.
+5. Select which subreddit you will be crawling and that max file size and total max data size.
+6. Run the script and start collecting data.
+7. The collected data will be stored in `reddit_data_{file_num}.json` file.
 
 ##Requirements
 1. Use the reddit API (https://www.reddit.com/dev/api/) to collect posts from one or more subreddits of your choice. You may also add some filters on keywords or users and so on.
