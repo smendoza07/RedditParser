@@ -28,6 +28,7 @@ data = []
 
 # Set to keep track of post and comment IDs
 post_ids = set()
+comment_ids = set()
 
 hyperlinks = []
 link_title = ''
@@ -70,14 +71,56 @@ while True:
 
         post_data = {
             'title': post.title,
+            'post_id': post.id,
             'post_url': f"https://www.reddit.com{post.permalink}",
             'author': post.author.name if post.author else None,
+            'body': post.selftext,
             'url': post.url,
+            'score': post.score,
             'links': { 'title': link_title,
                     'link': [link for link in hyperlinks],
                     },
+            'comments': []
+        }
+    post.comments.replace_more(limit=None)
+
+    for comment in post.comments:
+        # Skip duplicate comments
+        if comment.id in comment_ids:
+            continue
+
+        if isinstance(comment, praw.models.MoreComments):
+            continue
+
+        comment_data = {
+            'body': comment.body,
+            'author': comment.author.name if comment.author else None,
+            'score': comment.score,
+            'created_utc': comment.created_utc,
+            'replies': []
         }
 
+        comment.replies.replace_more(limit=None)
+
+        # Loop through each reply to the comment
+        for reply in comment.replies:
+            if isinstance(reply, praw.models.MoreComments):
+                continue
+
+            reply_data = {
+                'body': reply.body,
+                'author': reply.author.name if reply.author else None,
+                'score': reply.score,
+                'created_utc': reply.created_utc
+            }
+
+            comment_data['replies'].append(reply_data)
+
+        post_data['comments'].append(comment_data)
+
+        # Add comment ID to set of seen comment IDs
+        comment_ids.add(comment.id)
+        
         data.append(post_data)
 
         # Add post ID to set of seen post IDs

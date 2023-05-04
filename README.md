@@ -10,7 +10,10 @@ To run this project, you will need to have the following installed:
 - Python 3.6 or higher
 - PRAW Python library
 - requests library
-- 
+- Beautiful Soup 4
+- html library
+- os library
+- json library
 
 ## Usage
 
@@ -18,9 +21,9 @@ To run this project, you will need to have the following installed:
 2. Run 'pipenv shell' to create a virtual dev environment
 3. Run 'pipenv install --dev' to install all required dependencies.
 4. Open the `main.py` file and add your Reddit API credentials.
-5. Select which subreddit you will be crawling and that max file size and total max data size.
+5. Select which subreddit you will be crawling and the max file size and total max data size.
 6. Run the script and start collecting data.
-7. The collected data will be stored in `reddit_data_{file_num}.json` file.
+7. The collected data will be stored in the `data` folder and named `reddit_data_{subreddit_name}_{file_num}.json`.
 
 ## Requirements
 1. Use the reddit API (https://www.reddit.com/dev/api/) to collect posts from one or more subreddits of your choice. You may also add some filters on keywords or users and so on.
@@ -31,5 +34,5 @@ To run this project, you will need to have the following installed:
 ## Notes
 
 - The `main.py` file has several parameters that can be configured, such as `subreddit`, `file_size`, `max_size`.
-- By default, the script collects the top posts from all time from the specified subreddit.
+- By default, the script collects the top posts from all time from random subreddit until the max data size is reached.
 
