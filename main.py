@@ -6,6 +6,23 @@ from bs4 import BeautifulSoup
 import html
 import prawcore
 
+def get_comment_data(comment):
+    # Recursively gets data for a comment and its replies.
+    comment_data = {
+        'body': comment.body,
+        'author': comment.author.name if comment.author else None,
+        'score': comment.score,
+        'created_utc': comment.created_utc,
+        'replies': [],
+    }
+    comment.replies.replace_more(limit=None)
+    for reply in comment.replies:
+        if isinstance(reply, praw.models.MoreComments):
+            reply = reply.comments()[0]
+        reply_data = get_comment_data(reply)
+        comment_data['replies'].append(reply_data)
+    return comment_data
+
 # Reddit API credentials
 reddit = praw.Reddit(client_id='GUXF6LGTVNbixiD8PPns2Q',
                     client_secret='K2R4WXp5yJUDOpVXSK16mbKx5_b8Ow',
@@ -29,7 +46,7 @@ data = []
 # Set to keep track of post and comment IDs
 post_ids = set()
 comment_ids = set()
-
+# Set to keep track of hyperlinks and link titles
 hyperlinks = []
 link_title = ''
 
@@ -62,13 +79,16 @@ while True:
                     link_title = soup.title.string.strip()
                 except:
                     link_title = [f"Could not get title"]
+        # If there is no HTML, set hyperlinks and link_title to empty lists
         else:
             hyperlinks = []
             link_title = ''
 
+        # Skip duplicate posts
         if post.id in post_ids:
             continue
-
+        
+        # Get post data
         post_data = {
             'title': post.title,
             'post_id': post.id,
@@ -82,45 +102,25 @@ while True:
                     },
             'comments': []
         }
-    post.comments.replace_more(limit=None)
 
-    for comment in post.comments:
-        # Skip duplicate comments
-        if comment.id in comment_ids:
-            continue
+        # Get comment data
+        post.comments.replace_more(limit=None)
 
-        if isinstance(comment, praw.models.MoreComments):
-            continue
-
-        comment_data = {
-            'body': comment.body,
-            'author': comment.author.name if comment.author else None,
-            'score': comment.score,
-            'created_utc': comment.created_utc,
-            'replies': []
-        }
-
-        comment.replies.replace_more(limit=None)
-
-        # Loop through each reply to the comment
-        for reply in comment.replies:
-            if isinstance(reply, praw.models.MoreComments):
+        for comment in post.comments.list():
+            # Skip duplicate comments
+            if comment.id in comment_ids:
                 continue
+            # Skip MoreComments objects
+            if isinstance(comment, praw.models.MoreComments):
+                comment = comment.comments()[0]
+            # Get comment data
+            comment_data = get_comment_data(comment)
+            # Add comment data to post data
+            post_data['comments'].append(comment_data)
 
-            reply_data = {
-                'body': reply.body,
-                'author': reply.author.name if reply.author else None,
-                'score': reply.score,
-                'created_utc': reply.created_utc
-            }
-
-            comment_data['replies'].append(reply_data)
-
-        post_data['comments'].append(comment_data)
-
-        # Add comment ID to set of seen comment IDs
-        comment_ids.add(comment.id)
-        
+            # Add comment ID to set of seen comment IDs
+            comment_ids.add(comment.id)
+        # Add post data to list of post data
         data.append(post_data)
 
         # Add post ID to set of seen post IDs
@@ -130,7 +130,7 @@ while True:
         file_name = f'data/reddit_data_{subreddit_name}_{file_num}.json'
         with open(file_name, 'w') as f:
             json.dump(data, f, indent=4)
-
+        # Get the file size and total size
         data_folder = 'data'
         file_size = os.path.getsize(file_name)
         total_size = sum(os.path.getsize(os.path.join(data_folder, f)) for f in os.listdir(data_folder))
