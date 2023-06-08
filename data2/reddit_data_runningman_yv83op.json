@@ -1,0 +1,705 @@
+{
+    "title": "why dont they do subtitles like this on text any more only on what the members say",
+    "post_id": "yv83op",
+    "post_url": "https://www.reddit.com/r/runningman/comments/yv83op/why_dont_they_do_subtitles_like_this_on_text_any/",
+    "author": "sammy50277",
+    "body": "",
+    "url": "https://i.redd.it/p8f894j3myz91.png",
+    "score": 208,
+    "upvote_ratio": 0.97,
+    "created_utc": 1668450451.0,
+    "num_comments": 33,
+    "links": [
+        []
+    ],
+    "comments": [
+        {
+            "body": "This is such a throwback man. Remember to wait a week for the fan subs to be released. kshownow and iSubs were the one that I follow back then. So, yeah. They really put their work to their subs. iSubs put extra miles by listing every bgm played in the episode.",
+            "author": "KaitoGutz",
+            "id": "iwd5jr0",
+            "parent_id": "t3_yv83op",
+            "score": 181,
+            "created_utc": 1668454571.0,
+            "replies": [
+                {
+                    "body": "Honestly there's not a lot of subbing teams left but Baechu Squad are the only ones I can put on par with iSubs. They currently sub Great Escape and Girls High School Mystery Club. It takes them around 1-3 weeks after the episode airs to get subs, but they're seriously so good. From matching fonts to figuring out BGM, I don't want to be too bold, but I can 100% see them as the next gen iSubs.",
+                    "author": "l33d0ngw00k",
+                    "id": "iwe1ui3",
+                    "parent_id": "t1_iwd5jr0",
+                    "score": 36,
+                    "created_utc": 1668467573.0,
+                    "replies": []
+                },
+                {
+                    "body": "Oh man I remember those days, the bgm in the top left corner. Those were some world class subs \ud83d\udc4f \ud83d\udc4c",
+                    "author": "Aiirene",
+                    "id": "iweks90",
+                    "parent_id": "t1_iwd5jr0",
+                    "score": 29,
+                    "created_utc": 1668476139.0,
+                    "replies": [
+                        {
+                            "body": "iSubs was the GOAT mannn. They even explained jokes on the top of the screen that international fans would not understand on the get-go.",
+                            "author": "mwoyamwoya",
+                            "id": "iwfljjs",
+                            "parent_id": "t1_iweks90",
+                            "score": 22,
+                            "created_utc": 1668495803.0,
+                            "replies": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "body": "Real answer?  It\u2019s a lot more work to put subs embedded in the video file",
+            "author": "BunglingSegue",
+            "id": "iwcw7qy",
+            "parent_id": "t3_yv83op",
+            "score": 90,
+            "created_utc": 1668450946.0,
+            "replies": [
+                {
+                    "body": "And the fact that most subbers are volunteering their time, effort, and knowledge for free.",
+                    "author": "angry-friedegg",
+                    "id": "iwd2ok9",
+                    "parent_id": "t1_iwcw7qy",
+                    "score": 58,
+                    "created_utc": 1668453449.0,
+                    "replies": []
+                }
+            ]
+        },
+        {
+            "body": "I suppose you're referring to the early days of RM when the digital streams were being distributed by iSUBS? That was a long time ago maybe just around episodes 1 to 80. Yeah, obviously it just takes too much time. And the hard part isn't even about the translation itself, as long the subber is really competent enough in Korean and English, to begin with. What's difficult is more like positioning and coloring of the text. It's possible in .srt files but soft subs makers don't tend to do that, hard subs is more like it for this case. But again, hard subs would require editing the subtitles inside the video file which means more technical work to be done. At that point, it's not about syncing and language skills anymore.",
+            "author": "edoalva48",
+            "id": "iwd41jh",
+            "parent_id": "t3_yv83op",
+            "score": 39,
+            "created_utc": 1668453982.0,
+            "replies": [
+                {
+                    "body": "It can be done as a softsub .ass but still requires that extra work",
+                    "author": "Nivroeg",
+                    "id": "iwdx9uo",
+                    "parent_id": "t1_iwd41jh",
+                    "score": 3,
+                    "created_utc": 1668465620.0,
+                    "replies": [
+                        {
+                            "body": "Thank u for the insight.",
+                            "author": "edoalva48",
+                            "id": "iwfkm8d",
+                            "parent_id": "t1_iwdx9uo",
+                            "score": 1,
+                            "created_utc": 1668495102.0,
+                            "replies": []
+                        }
+                    ]
+                },
+                {
+                    "body": "Dont have to edit the video file. Hardsub just need the subtitle file and compile it onto video file. There was a software for it.\n\nThe work done on subtitle file but yeah too much hassle.",
+                    "author": "NobleArch",
+                    "id": "iwdro45",
+                    "parent_id": "t1_iwd41jh",
+                    "score": 3,
+                    "created_utc": 1668463260.0,
+                    "replies": [
+                        {
+                            "body": "If you do it the iSubs way where they try to match font/text colour I\u2019d imagine that would require some extra editing no?",
+                            "author": "creezle",
+                            "id": "iwdtdxw",
+                            "parent_id": "t1_iwdro45",
+                            "score": 3,
+                            "created_utc": 1668463972.0,
+                            "replies": [
+                                {
+                                    "body": "I do graphic design and have dabbled in after effects/premiere pro before and the amount of effort and time needed to get all these subs in the accurate font and colour and then to sync up to the actual text itself is insanity. I honestly don\u2019t understand how the OG isubs team used to do it. They had all the contextual information/ song lyrics/ graphic styles similar to the Korean text. And then people bemoan how subs nowadays aren\u2019t at the level of isubs then, it\u2019s a full time job at that level lol.",
+                                    "author": "swearyirishman",
+                                    "id": "iwfiog0",
+                                    "parent_id": "t1_iwdtdxw",
+                                    "score": 8,
+                                    "created_utc": 1668493663.0,
+                                    "replies": [
+                                        {
+                                            "body": "Exactly right, what they have done is too next level of professionalism. Truly applaud them, definitely a service that really deserves to be paid. So I get why we can't have that anymore.",
+                                            "author": "edoalva48",
+                                            "id": "iwfkjke",
+                                            "parent_id": "t1_iwfiog0",
+                                            "score": 2,
+                                            "created_utc": 1668495044.0,
+                                            "replies": []
+                                        },
+                                        {
+                                            "body": "I highly doubt they used premiere pro to make these subs. \n\nThe anime community developed their own subtitling software like [Aegisub](https://en.m.wikipedia.org/wiki/Aegisub) to make fansubs like these relatively more easily. It's the default application there to do any form of subtitling. \n\niSubs wrote it out in an .ass subtitle file, then hardcoded it in before releasing it as many other fansubbers did back in the day. It's still a ton of work, but hella easier than trying to do it in a video editor. Once they got the fonts and positioning down in the first few episodes, all that was left for subsequent episodes was doing the actual subbing & timing. They've said back in the day that the most time consuming aspect had been identifying the OST, a convention I'm glad carries on today in newer fansubbing groups because kshows use ost from anywhere and everywhere so liberally. Some differences in copyright law iirc. \n\nI've had some experience with this software in the past by attempting to sub vocaloid music videos (ie dealing with insane amounts of texts & fonts flying about), it's by no means easy to master but it certainly makes these sorts of subtitles much easier to do than simple .srt & trying to do it in premiere pro. \n\nI had always bemoaned that the kvariety/kdrama fansubbing community was snuffed out too quickly before they could really take root like the anime fansubbing community did. But to be fair, that community also has like, [no rules over what makes good readable subs](https://m.youtube.com/watch?v=nqiVJJt3_KY&feature=emb_title) (this is an opening to a show, but the song's been muted due to copyright. The lyrics weren't there originally, but a convention in the community community is to provide lyrics for the openings. It is a pretty good example of how far this subtitle format can take things).\n\nEdit: got a message about being explicit about edits, so for transparency I just finished writing the first paragraph after forgetting to continue it before sending. Brain not working lol.",
+                                            "author": "boinkky",
+                                            "id": "iwhlivb",
+                                            "parent_id": "t1_iwfiog0",
+                                            "score": 1,
+                                            "created_utc": 1668536610.0,
+                                            "replies": [
+                                                {
+                                                    "body": "Hey thanks this is super interesting to read. It makes sense that there\u2019s a program specialised for subbing, it would\u2019ve taken a Herculean effort in any of those video editing softwares I mentioned.",
+                                                    "author": "swearyirishman",
+                                                    "id": "iwjxiwu",
+                                                    "parent_id": "t1_iwhlivb",
+                                                    "score": 1,
+                                                    "created_utc": 1668572745.0,
+                                                    "replies": [
+                                                        {
+                                                            "body": "Np, I always did find that aspect of fan culture fascinating. The fansubbers were people passionate enough to translate a piece of media they love to share with the rest of the world, so it comes as no surprise someone would eventually end up coding their own program to meet their needs and standards lol. \n\nI do find it a shame that the usage of such nice subtitles never caught on for legal streaming. But granted, the advantage of simple .srt subs makes them accessible and flexible to any player out there. It does mean a lot of the depth in understanding a show gets lost along the way :( \n\nI saw someone say they used to add translator notes in the subs, which is amazing in introducing the viewer to aspects of the culture and establishing the context for jokes. I miss that, but also I don't miss the days of [over-explaining](https://i.kym-cdn.com/photos/images/original/000/068/230/checkmate.jpg) or [having a translator note for the sake of it](https://i.kym-cdn.com/photos/images/original/000/037/923/keikaku.jpg) lol hahahaha",
+                                                            "author": "boinkky",
+                                                            "id": "iwl8qtr",
+                                                            "parent_id": "t1_iwjxiwu",
+                                                            "score": 1,
+                                                            "created_utc": 1668606782.0,
+                                                            "replies": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "body": "Hardsubs are usually .ass files burned in, font type and positioning are still required for op\u2019s desired subs, which is the extra hassle",
+                            "author": "Nivroeg",
+                            "id": "iwdx2w7",
+                            "parent_id": "t1_iwdro45",
+                            "score": 3,
+                            "created_utc": 1668465537.0,
+                            "replies": [
+                                {
+                                    "body": "Thank u for the insight.",
+                                    "author": "edoalva48",
+                                    "id": "iwfkm2v",
+                                    "parent_id": "t1_iwdx2w7",
+                                    "score": 1,
+                                    "created_utc": 1668495098.0,
+                                    "replies": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "body": "Any important onscreen text are added in, usually with parentheses or [ ] around them. Adding them in like that takes a bit more work, matching font, sizing, angle, duration. And that would only be for .ass subs whereas most people use .srt. Alternative is to hardsub them in, and thats just wrong..\n\nCurrently i take raw translations and sync them to the video file i dl, i have to watch the show as i sync, so thats a 1hour job. Not to mention customizing onscreen stuff, most of which is spoken out loud (and already translated)anyways.",
+            "author": "Nivroeg",
+            "id": "iwcyecf",
+            "parent_id": "t3_yv83op",
+            "score": 17,
+            "created_utc": 1668451786.0,
+            "replies": []
+        },
+        {
+            "body": "It takes more time and effort. Right now we get subs out in less than 24 hours but with those they'll take much longer. And I think a lot of us would be impatient and flock to other fans doing the current faster subs anyway.",
+            "author": "cookkie_",
+            "id": "iwcwxuj",
+            "parent_id": "t3_yv83op",
+            "score": 33,
+            "created_utc": 1668451226.0,
+            "replies": []
+        },
+        {
+            "body": "Did anyone know who is the team behind iSubs?",
+            "author": "NobleArch",
+            "id": "iwdrztk",
+            "parent_id": "t3_yv83op",
+            "score": 5,
+            "created_utc": 1668463393.0,
+            "replies": [
+                {
+                    "body": "Honestly for real, it's been almost a decade and I would *still* PayPal them some money. The team seriously deserves it for the amazing subs that are still legendary to this day.",
+                    "author": "l33d0ngw00k",
+                    "id": "iwe17sj",
+                    "parent_id": "t1_iwdrztk",
+                    "score": 13,
+                    "created_utc": 1668467300.0,
+                    "replies": []
+                },
+                {
+                    "body": "Here are some comments from one of the contributors:\n\nhttps://www.reddit.com/r/runningman/comments/981yuq/-/e4goa52\n\nhttps://www.reddit.com/r/runningman/comments/mdbdgx/-/gsaa6oc",
+                    "author": "Arktoscircle",
+                    "id": "iwgee8a",
+                    "parent_id": "t1_iwdrztk",
+                    "score": 2,
+                    "created_utc": 1668518485.0,
+                    "replies": []
+                }
+            ]
+        },
+        {
+            "body": "Donate to them if you want that. Oh I miss iSUBS \ud83d\ude2d\ud83d\ude2d",
+            "author": "EKFLF",
+            "id": "iwem35i",
+            "parent_id": "t3_yv83op",
+            "score": 5,
+            "created_utc": 1668476725.0,
+            "replies": []
+        },
+        {
+            "body": "Not every subber subs the same way. Some will only translate/sub what is absolutely necessary to understand the episode. Others will go the extra mile and translate/sub on-screen text and banter unrelated to the game/plot, which is the kind that I prefer. But I do understand and appreciate that it a significant extra effort.",
+            "author": "UnderOurPants",
+            "id": "iwd37m2",
+            "parent_id": "t3_yv83op",
+            "score": 6,
+            "created_utc": 1668453656.0,
+            "replies": []
+        },
+        {
+            "body": "This makes me miss iSubs",
+            "author": "whitefang0824",
+            "id": "iwf3yka",
+            "parent_id": "t3_yv83op",
+            "score": 2,
+            "created_utc": 1668484828.0,
+            "replies": []
+        },
+        {
+            "body": "And the name of the background music in the corner \ud83e\udd70",
+            "author": "howtosarang",
+            "id": "iwfl609",
+            "parent_id": "t3_yv83op",
+            "score": 2,
+            "created_utc": 1668495521.0,
+            "replies": []
+        },
+        {
+            "body": "Because the group that made those quality subs are now disbanded.",
+            "author": "lolminna",
+            "id": "iwg30jh",
+            "parent_id": "t3_yv83op",
+            "score": 2,
+            "created_utc": 1668511106.0,
+            "replies": []
+        },
+        {
+            "body": "This is the fabulous work the team at iSubs. The subs closest to this kind of quality is now being done weekly by dramaJoe here on reddit.",
+            "author": "Celestial_Crook",
+            "id": "iwh6vg9",
+            "parent_id": "t3_yv83op",
+            "score": 2,
+            "created_utc": 1668530911.0,
+            "replies": []
+        },
+        {
+            "body": "Those were fan subs, the best subs \ud83e\udd72",
+            "author": "AliceRedWon",
+            "id": "iwfglvq",
+            "parent_id": "t3_yv83op",
+            "score": 1,
+            "created_utc": 1668492179.0,
+            "replies": []
+        },
+        {
+            "body": "Like many mention, takes a lot of time and effort. Guess what, people want to watch it ASAP even at the expense of lacking in quality subtitle.\n\nLess demand/ people waiting for good quality sub content, slower release group disbands\n\nEverything nowadays is all about speed or getting the content right away. Even Outrun suffered a little because how they had weird schedule where I believe KR vs. other Asian country release were different that likely affected their viewership.",
+            "author": "MeepnBeep",
+            "id": "iwfs8mv",
+            "parent_id": "t3_yv83op",
+            "score": 1,
+            "created_utc": 1668501454.0,
+            "replies": []
+        },
+        {
+            "body": "If u can read chinese, watch tsks subbed ones. They sub eveery single word on the screen.",
+            "author": "yoong421",
+            "id": "iwhi5a9",
+            "parent_id": "t3_yv83op",
+            "score": 1,
+            "created_utc": 1668535315.0,
+            "replies": []
+        },
+        {
+            "body": "iSubs Team contribute a lot to the early international success of running man, i hope running man team pays tribute to them",
+            "author": "fluffy551",
+            "id": "ix3e9ag",
+            "parent_id": "t3_yv83op",
+            "score": 1,
+            "created_utc": 1668950274.0,
+            "replies": []
+        },
+        {
+            "body": "Honestly there's not a lot of subbing teams left but Baechu Squad are the only ones I can put on par with iSubs. They currently sub Great Escape and Girls High School Mystery Club. It takes them around 1-3 weeks after the episode airs to get subs, but they're seriously so good. From matching fonts to figuring out BGM, I don't want to be too bold, but I can 100% see them as the next gen iSubs.",
+            "author": "l33d0ngw00k",
+            "id": "iwe1ui3",
+            "parent_id": "t1_iwd5jr0",
+            "score": 36,
+            "created_utc": 1668467573.0,
+            "replies": []
+        },
+        {
+            "body": "Oh man I remember those days, the bgm in the top left corner. Those were some world class subs \ud83d\udc4f \ud83d\udc4c",
+            "author": "Aiirene",
+            "id": "iweks90",
+            "parent_id": "t1_iwd5jr0",
+            "score": 29,
+            "created_utc": 1668476139.0,
+            "replies": [
+                {
+                    "body": "iSubs was the GOAT mannn. They even explained jokes on the top of the screen that international fans would not understand on the get-go.",
+                    "author": "mwoyamwoya",
+                    "id": "iwfljjs",
+                    "parent_id": "t1_iweks90",
+                    "score": 22,
+                    "created_utc": 1668495803.0,
+                    "replies": []
+                }
+            ]
+        },
+        {
+            "body": "And the fact that most subbers are volunteering their time, effort, and knowledge for free.",
+            "author": "angry-friedegg",
+            "id": "iwd2ok9",
+            "parent_id": "t1_iwcw7qy",
+            "score": 58,
+            "created_utc": 1668453449.0,
+            "replies": []
+        },
+        {
+            "body": "It can be done as a softsub .ass but still requires that extra work",
+            "author": "Nivroeg",
+            "id": "iwdx9uo",
+            "parent_id": "t1_iwd41jh",
+            "score": 3,
+            "created_utc": 1668465620.0,
+            "replies": [
+                {
+                    "body": "Thank u for the insight.",
+                    "author": "edoalva48",
+                    "id": "iwfkm8d",
+                    "parent_id": "t1_iwdx9uo",
+                    "score": 1,
+                    "created_utc": 1668495102.0,
+                    "replies": []
+                }
+            ]
+        },
+        {
+            "body": "Dont have to edit the video file. Hardsub just need the subtitle file and compile it onto video file. There was a software for it.\n\nThe work done on subtitle file but yeah too much hassle.",
+            "author": "NobleArch",
+            "id": "iwdro45",
+            "parent_id": "t1_iwd41jh",
+            "score": 3,
+            "created_utc": 1668463260.0,
+            "replies": [
+                {
+                    "body": "If you do it the iSubs way where they try to match font/text colour I\u2019d imagine that would require some extra editing no?",
+                    "author": "creezle",
+                    "id": "iwdtdxw",
+                    "parent_id": "t1_iwdro45",
+                    "score": 3,
+                    "created_utc": 1668463972.0,
+                    "replies": [
+                        {
+                            "body": "I do graphic design and have dabbled in after effects/premiere pro before and the amount of effort and time needed to get all these subs in the accurate font and colour and then to sync up to the actual text itself is insanity. I honestly don\u2019t understand how the OG isubs team used to do it. They had all the contextual information/ song lyrics/ graphic styles similar to the Korean text. And then people bemoan how subs nowadays aren\u2019t at the level of isubs then, it\u2019s a full time job at that level lol.",
+                            "author": "swearyirishman",
+                            "id": "iwfiog0",
+                            "parent_id": "t1_iwdtdxw",
+                            "score": 8,
+                            "created_utc": 1668493663.0,
+                            "replies": [
+                                {
+                                    "body": "Exactly right, what they have done is too next level of professionalism. Truly applaud them, definitely a service that really deserves to be paid. So I get why we can't have that anymore.",
+                                    "author": "edoalva48",
+                                    "id": "iwfkjke",
+                                    "parent_id": "t1_iwfiog0",
+                                    "score": 2,
+                                    "created_utc": 1668495044.0,
+                                    "replies": []
+                                },
+                                {
+                                    "body": "I highly doubt they used premiere pro to make these subs. \n\nThe anime community developed their own subtitling software like [Aegisub](https://en.m.wikipedia.org/wiki/Aegisub) to make fansubs like these relatively more easily. It's the default application there to do any form of subtitling. \n\niSubs wrote it out in an .ass subtitle file, then hardcoded it in before releasing it as many other fansubbers did back in the day. It's still a ton of work, but hella easier than trying to do it in a video editor. Once they got the fonts and positioning down in the first few episodes, all that was left for subsequent episodes was doing the actual subbing & timing. They've said back in the day that the most time consuming aspect had been identifying the OST, a convention I'm glad carries on today in newer fansubbing groups because kshows use ost from anywhere and everywhere so liberally. Some differences in copyright law iirc. \n\nI've had some experience with this software in the past by attempting to sub vocaloid music videos (ie dealing with insane amounts of texts & fonts flying about), it's by no means easy to master but it certainly makes these sorts of subtitles much easier to do than simple .srt & trying to do it in premiere pro. \n\nI had always bemoaned that the kvariety/kdrama fansubbing community was snuffed out too quickly before they could really take root like the anime fansubbing community did. But to be fair, that community also has like, [no rules over what makes good readable subs](https://m.youtube.com/watch?v=nqiVJJt3_KY&feature=emb_title) (this is an opening to a show, but the song's been muted due to copyright. The lyrics weren't there originally, but a convention in the community community is to provide lyrics for the openings. It is a pretty good example of how far this subtitle format can take things).\n\nEdit: got a message about being explicit about edits, so for transparency I just finished writing the first paragraph after forgetting to continue it before sending. Brain not working lol.",
+                                    "author": "boinkky",
+                                    "id": "iwhlivb",
+                                    "parent_id": "t1_iwfiog0",
+                                    "score": 1,
+                                    "created_utc": 1668536610.0,
+                                    "replies": [
+                                        {
+                                            "body": "Hey thanks this is super interesting to read. It makes sense that there\u2019s a program specialised for subbing, it would\u2019ve taken a Herculean effort in any of those video editing softwares I mentioned.",
+                                            "author": "swearyirishman",
+                                            "id": "iwjxiwu",
+                                            "parent_id": "t1_iwhlivb",
+                                            "score": 1,
+                                            "created_utc": 1668572745.0,
+                                            "replies": [
+                                                {
+                                                    "body": "Np, I always did find that aspect of fan culture fascinating. The fansubbers were people passionate enough to translate a piece of media they love to share with the rest of the world, so it comes as no surprise someone would eventually end up coding their own program to meet their needs and standards lol. \n\nI do find it a shame that the usage of such nice subtitles never caught on for legal streaming. But granted, the advantage of simple .srt subs makes them accessible and flexible to any player out there. It does mean a lot of the depth in understanding a show gets lost along the way :( \n\nI saw someone say they used to add translator notes in the subs, which is amazing in introducing the viewer to aspects of the culture and establishing the context for jokes. I miss that, but also I don't miss the days of [over-explaining](https://i.kym-cdn.com/photos/images/original/000/068/230/checkmate.jpg) or [having a translator note for the sake of it](https://i.kym-cdn.com/photos/images/original/000/037/923/keikaku.jpg) lol hahahaha",
+                                                    "author": "boinkky",
+                                                    "id": "iwl8qtr",
+                                                    "parent_id": "t1_iwjxiwu",
+                                                    "score": 1,
+                                                    "created_utc": 1668606782.0,
+                                                    "replies": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "body": "Hardsubs are usually .ass files burned in, font type and positioning are still required for op\u2019s desired subs, which is the extra hassle",
+                    "author": "Nivroeg",
+                    "id": "iwdx2w7",
+                    "parent_id": "t1_iwdro45",
+                    "score": 3,
+                    "created_utc": 1668465537.0,
+                    "replies": [
+                        {
+                            "body": "Thank u for the insight.",
+                            "author": "edoalva48",
+                            "id": "iwfkm2v",
+                            "parent_id": "t1_iwdx2w7",
+                            "score": 1,
+                            "created_utc": 1668495098.0,
+                            "replies": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "body": "Honestly for real, it's been almost a decade and I would *still* PayPal them some money. The team seriously deserves it for the amazing subs that are still legendary to this day.",
+            "author": "l33d0ngw00k",
+            "id": "iwe17sj",
+            "parent_id": "t1_iwdrztk",
+            "score": 13,
+            "created_utc": 1668467300.0,
+            "replies": []
+        },
+        {
+            "body": "Here are some comments from one of the contributors:\n\nhttps://www.reddit.com/r/runningman/comments/981yuq/-/e4goa52\n\nhttps://www.reddit.com/r/runningman/comments/mdbdgx/-/gsaa6oc",
+            "author": "Arktoscircle",
+            "id": "iwgee8a",
+            "parent_id": "t1_iwdrztk",
+            "score": 2,
+            "created_utc": 1668518485.0,
+            "replies": []
+        },
+        {
+            "body": "iSubs was the GOAT mannn. They even explained jokes on the top of the screen that international fans would not understand on the get-go.",
+            "author": "mwoyamwoya",
+            "id": "iwfljjs",
+            "parent_id": "t1_iweks90",
+            "score": 22,
+            "created_utc": 1668495803.0,
+            "replies": []
+        },
+        {
+            "body": "Thank u for the insight.",
+            "author": "edoalva48",
+            "id": "iwfkm8d",
+            "parent_id": "t1_iwdx9uo",
+            "score": 1,
+            "created_utc": 1668495102.0,
+            "replies": []
+        },
+        {
+            "body": "If you do it the iSubs way where they try to match font/text colour I\u2019d imagine that would require some extra editing no?",
+            "author": "creezle",
+            "id": "iwdtdxw",
+            "parent_id": "t1_iwdro45",
+            "score": 3,
+            "created_utc": 1668463972.0,
+            "replies": [
+                {
+                    "body": "I do graphic design and have dabbled in after effects/premiere pro before and the amount of effort and time needed to get all these subs in the accurate font and colour and then to sync up to the actual text itself is insanity. I honestly don\u2019t understand how the OG isubs team used to do it. They had all the contextual information/ song lyrics/ graphic styles similar to the Korean text. And then people bemoan how subs nowadays aren\u2019t at the level of isubs then, it\u2019s a full time job at that level lol.",
+                    "author": "swearyirishman",
+                    "id": "iwfiog0",
+                    "parent_id": "t1_iwdtdxw",
+                    "score": 8,
+                    "created_utc": 1668493663.0,
+                    "replies": [
+                        {
+                            "body": "Exactly right, what they have done is too next level of professionalism. Truly applaud them, definitely a service that really deserves to be paid. So I get why we can't have that anymore.",
+                            "author": "edoalva48",
+                            "id": "iwfkjke",
+                            "parent_id": "t1_iwfiog0",
+                            "score": 2,
+                            "created_utc": 1668495044.0,
+                            "replies": []
+                        },
+                        {
+                            "body": "I highly doubt they used premiere pro to make these subs. \n\nThe anime community developed their own subtitling software like [Aegisub](https://en.m.wikipedia.org/wiki/Aegisub) to make fansubs like these relatively more easily. It's the default application there to do any form of subtitling. \n\niSubs wrote it out in an .ass subtitle file, then hardcoded it in before releasing it as many other fansubbers did back in the day. It's still a ton of work, but hella easier than trying to do it in a video editor. Once they got the fonts and positioning down in the first few episodes, all that was left for subsequent episodes was doing the actual subbing & timing. They've said back in the day that the most time consuming aspect had been identifying the OST, a convention I'm glad carries on today in newer fansubbing groups because kshows use ost from anywhere and everywhere so liberally. Some differences in copyright law iirc. \n\nI've had some experience with this software in the past by attempting to sub vocaloid music videos (ie dealing with insane amounts of texts & fonts flying about), it's by no means easy to master but it certainly makes these sorts of subtitles much easier to do than simple .srt & trying to do it in premiere pro. \n\nI had always bemoaned that the kvariety/kdrama fansubbing community was snuffed out too quickly before they could really take root like the anime fansubbing community did. But to be fair, that community also has like, [no rules over what makes good readable subs](https://m.youtube.com/watch?v=nqiVJJt3_KY&feature=emb_title) (this is an opening to a show, but the song's been muted due to copyright. The lyrics weren't there originally, but a convention in the community community is to provide lyrics for the openings. It is a pretty good example of how far this subtitle format can take things).\n\nEdit: got a message about being explicit about edits, so for transparency I just finished writing the first paragraph after forgetting to continue it before sending. Brain not working lol.",
+                            "author": "boinkky",
+                            "id": "iwhlivb",
+                            "parent_id": "t1_iwfiog0",
+                            "score": 1,
+                            "created_utc": 1668536610.0,
+                            "replies": [
+                                {
+                                    "body": "Hey thanks this is super interesting to read. It makes sense that there\u2019s a program specialised for subbing, it would\u2019ve taken a Herculean effort in any of those video editing softwares I mentioned.",
+                                    "author": "swearyirishman",
+                                    "id": "iwjxiwu",
+                                    "parent_id": "t1_iwhlivb",
+                                    "score": 1,
+                                    "created_utc": 1668572745.0,
+                                    "replies": [
+                                        {
+                                            "body": "Np, I always did find that aspect of fan culture fascinating. The fansubbers were people passionate enough to translate a piece of media they love to share with the rest of the world, so it comes as no surprise someone would eventually end up coding their own program to meet their needs and standards lol. \n\nI do find it a shame that the usage of such nice subtitles never caught on for legal streaming. But granted, the advantage of simple .srt subs makes them accessible and flexible to any player out there. It does mean a lot of the depth in understanding a show gets lost along the way :( \n\nI saw someone say they used to add translator notes in the subs, which is amazing in introducing the viewer to aspects of the culture and establishing the context for jokes. I miss that, but also I don't miss the days of [over-explaining](https://i.kym-cdn.com/photos/images/original/000/068/230/checkmate.jpg) or [having a translator note for the sake of it](https://i.kym-cdn.com/photos/images/original/000/037/923/keikaku.jpg) lol hahahaha",
+                                            "author": "boinkky",
+                                            "id": "iwl8qtr",
+                                            "parent_id": "t1_iwjxiwu",
+                                            "score": 1,
+                                            "created_utc": 1668606782.0,
+                                            "replies": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "body": "Hardsubs are usually .ass files burned in, font type and positioning are still required for op\u2019s desired subs, which is the extra hassle",
+            "author": "Nivroeg",
+            "id": "iwdx2w7",
+            "parent_id": "t1_iwdro45",
+            "score": 3,
+            "created_utc": 1668465537.0,
+            "replies": [
+                {
+                    "body": "Thank u for the insight.",
+                    "author": "edoalva48",
+                    "id": "iwfkm2v",
+                    "parent_id": "t1_iwdx2w7",
+                    "score": 1,
+                    "created_utc": 1668495098.0,
+                    "replies": []
+                }
+            ]
+        },
+        {
+            "body": "I do graphic design and have dabbled in after effects/premiere pro before and the amount of effort and time needed to get all these subs in the accurate font and colour and then to sync up to the actual text itself is insanity. I honestly don\u2019t understand how the OG isubs team used to do it. They had all the contextual information/ song lyrics/ graphic styles similar to the Korean text. And then people bemoan how subs nowadays aren\u2019t at the level of isubs then, it\u2019s a full time job at that level lol.",
+            "author": "swearyirishman",
+            "id": "iwfiog0",
+            "parent_id": "t1_iwdtdxw",
+            "score": 8,
+            "created_utc": 1668493663.0,
+            "replies": [
+                {
+                    "body": "Exactly right, what they have done is too next level of professionalism. Truly applaud them, definitely a service that really deserves to be paid. So I get why we can't have that anymore.",
+                    "author": "edoalva48",
+                    "id": "iwfkjke",
+                    "parent_id": "t1_iwfiog0",
+                    "score": 2,
+                    "created_utc": 1668495044.0,
+                    "replies": []
+                },
+                {
+                    "body": "I highly doubt they used premiere pro to make these subs. \n\nThe anime community developed their own subtitling software like [Aegisub](https://en.m.wikipedia.org/wiki/Aegisub) to make fansubs like these relatively more easily. It's the default application there to do any form of subtitling. \n\niSubs wrote it out in an .ass subtitle file, then hardcoded it in before releasing it as many other fansubbers did back in the day. It's still a ton of work, but hella easier than trying to do it in a video editor. Once they got the fonts and positioning down in the first few episodes, all that was left for subsequent episodes was doing the actual subbing & timing. They've said back in the day that the most time consuming aspect had been identifying the OST, a convention I'm glad carries on today in newer fansubbing groups because kshows use ost from anywhere and everywhere so liberally. Some differences in copyright law iirc. \n\nI've had some experience with this software in the past by attempting to sub vocaloid music videos (ie dealing with insane amounts of texts & fonts flying about), it's by no means easy to master but it certainly makes these sorts of subtitles much easier to do than simple .srt & trying to do it in premiere pro. \n\nI had always bemoaned that the kvariety/kdrama fansubbing community was snuffed out too quickly before they could really take root like the anime fansubbing community did. But to be fair, that community also has like, [no rules over what makes good readable subs](https://m.youtube.com/watch?v=nqiVJJt3_KY&feature=emb_title) (this is an opening to a show, but the song's been muted due to copyright. The lyrics weren't there originally, but a convention in the community community is to provide lyrics for the openings. It is a pretty good example of how far this subtitle format can take things).\n\nEdit: got a message about being explicit about edits, so for transparency I just finished writing the first paragraph after forgetting to continue it before sending. Brain not working lol.",
+                    "author": "boinkky",
+                    "id": "iwhlivb",
+                    "parent_id": "t1_iwfiog0",
+                    "score": 1,
+                    "created_utc": 1668536610.0,
+                    "replies": [
+                        {
+                            "body": "Hey thanks this is super interesting to read. It makes sense that there\u2019s a program specialised for subbing, it would\u2019ve taken a Herculean effort in any of those video editing softwares I mentioned.",
+                            "author": "swearyirishman",
+                            "id": "iwjxiwu",
+                            "parent_id": "t1_iwhlivb",
+                            "score": 1,
+                            "created_utc": 1668572745.0,
+                            "replies": [
+                                {
+                                    "body": "Np, I always did find that aspect of fan culture fascinating. The fansubbers were people passionate enough to translate a piece of media they love to share with the rest of the world, so it comes as no surprise someone would eventually end up coding their own program to meet their needs and standards lol. \n\nI do find it a shame that the usage of such nice subtitles never caught on for legal streaming. But granted, the advantage of simple .srt subs makes them accessible and flexible to any player out there. It does mean a lot of the depth in understanding a show gets lost along the way :( \n\nI saw someone say they used to add translator notes in the subs, which is amazing in introducing the viewer to aspects of the culture and establishing the context for jokes. I miss that, but also I don't miss the days of [over-explaining](https://i.kym-cdn.com/photos/images/original/000/068/230/checkmate.jpg) or [having a translator note for the sake of it](https://i.kym-cdn.com/photos/images/original/000/037/923/keikaku.jpg) lol hahahaha",
+                                    "author": "boinkky",
+                                    "id": "iwl8qtr",
+                                    "parent_id": "t1_iwjxiwu",
+                                    "score": 1,
+                                    "created_utc": 1668606782.0,
+                                    "replies": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "body": "Thank u for the insight.",
+            "author": "edoalva48",
+            "id": "iwfkm2v",
+            "parent_id": "t1_iwdx2w7",
+            "score": 1,
+            "created_utc": 1668495098.0,
+            "replies": []
+        },
+        {
+            "body": "Exactly right, what they have done is too next level of professionalism. Truly applaud them, definitely a service that really deserves to be paid. So I get why we can't have that anymore.",
+            "author": "edoalva48",
+            "id": "iwfkjke",
+            "parent_id": "t1_iwfiog0",
+            "score": 2,
+            "created_utc": 1668495044.0,
+            "replies": []
+        },
+        {
+            "body": "I highly doubt they used premiere pro to make these subs. \n\nThe anime community developed their own subtitling software like [Aegisub](https://en.m.wikipedia.org/wiki/Aegisub) to make fansubs like these relatively more easily. It's the default application there to do any form of subtitling. \n\niSubs wrote it out in an .ass subtitle file, then hardcoded it in before releasing it as many other fansubbers did back in the day. It's still a ton of work, but hella easier than trying to do it in a video editor. Once they got the fonts and positioning down in the first few episodes, all that was left for subsequent episodes was doing the actual subbing & timing. They've said back in the day that the most time consuming aspect had been identifying the OST, a convention I'm glad carries on today in newer fansubbing groups because kshows use ost from anywhere and everywhere so liberally. Some differences in copyright law iirc. \n\nI've had some experience with this software in the past by attempting to sub vocaloid music videos (ie dealing with insane amounts of texts & fonts flying about), it's by no means easy to master but it certainly makes these sorts of subtitles much easier to do than simple .srt & trying to do it in premiere pro. \n\nI had always bemoaned that the kvariety/kdrama fansubbing community was snuffed out too quickly before they could really take root like the anime fansubbing community did. But to be fair, that community also has like, [no rules over what makes good readable subs](https://m.youtube.com/watch?v=nqiVJJt3_KY&feature=emb_title) (this is an opening to a show, but the song's been muted due to copyright. The lyrics weren't there originally, but a convention in the community community is to provide lyrics for the openings. It is a pretty good example of how far this subtitle format can take things).\n\nEdit: got a message about being explicit about edits, so for transparency I just finished writing the first paragraph after forgetting to continue it before sending. Brain not working lol.",
+            "author": "boinkky",
+            "id": "iwhlivb",
+            "parent_id": "t1_iwfiog0",
+            "score": 1,
+            "created_utc": 1668536610.0,
+            "replies": [
+                {
+                    "body": "Hey thanks this is super interesting to read. It makes sense that there\u2019s a program specialised for subbing, it would\u2019ve taken a Herculean effort in any of those video editing softwares I mentioned.",
+                    "author": "swearyirishman",
+                    "id": "iwjxiwu",
+                    "parent_id": "t1_iwhlivb",
+                    "score": 1,
+                    "created_utc": 1668572745.0,
+                    "replies": [
+                        {
+                            "body": "Np, I always did find that aspect of fan culture fascinating. The fansubbers were people passionate enough to translate a piece of media they love to share with the rest of the world, so it comes as no surprise someone would eventually end up coding their own program to meet their needs and standards lol. \n\nI do find it a shame that the usage of such nice subtitles never caught on for legal streaming. But granted, the advantage of simple .srt subs makes them accessible and flexible to any player out there. It does mean a lot of the depth in understanding a show gets lost along the way :( \n\nI saw someone say they used to add translator notes in the subs, which is amazing in introducing the viewer to aspects of the culture and establishing the context for jokes. I miss that, but also I don't miss the days of [over-explaining](https://i.kym-cdn.com/photos/images/original/000/068/230/checkmate.jpg) or [having a translator note for the sake of it](https://i.kym-cdn.com/photos/images/original/000/037/923/keikaku.jpg) lol hahahaha",
+                            "author": "boinkky",
+                            "id": "iwl8qtr",
+                            "parent_id": "t1_iwjxiwu",
+                            "score": 1,
+                            "created_utc": 1668606782.0,
+                            "replies": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "body": "Hey thanks this is super interesting to read. It makes sense that there\u2019s a program specialised for subbing, it would\u2019ve taken a Herculean effort in any of those video editing softwares I mentioned.",
+            "author": "swearyirishman",
+            "id": "iwjxiwu",
+            "parent_id": "t1_iwhlivb",
+            "score": 1,
+            "created_utc": 1668572745.0,
+            "replies": [
+                {
+                    "body": "Np, I always did find that aspect of fan culture fascinating. The fansubbers were people passionate enough to translate a piece of media they love to share with the rest of the world, so it comes as no surprise someone would eventually end up coding their own program to meet their needs and standards lol. \n\nI do find it a shame that the usage of such nice subtitles never caught on for legal streaming. But granted, the advantage of simple .srt subs makes them accessible and flexible to any player out there. It does mean a lot of the depth in understanding a show gets lost along the way :( \n\nI saw someone say they used to add translator notes in the subs, which is amazing in introducing the viewer to aspects of the culture and establishing the context for jokes. I miss that, but also I don't miss the days of [over-explaining](https://i.kym-cdn.com/photos/images/original/000/068/230/checkmate.jpg) or [having a translator note for the sake of it](https://i.kym-cdn.com/photos/images/original/000/037/923/keikaku.jpg) lol hahahaha",
+                    "author": "boinkky",
+                    "id": "iwl8qtr",
+                    "parent_id": "t1_iwjxiwu",
+                    "score": 1,
+                    "created_utc": 1668606782.0,
+                    "replies": []
+                }
+            ]
+        },
+        {
+            "body": "Np, I always did find that aspect of fan culture fascinating. The fansubbers were people passionate enough to translate a piece of media they love to share with the rest of the world, so it comes as no surprise someone would eventually end up coding their own program to meet their needs and standards lol. \n\nI do find it a shame that the usage of such nice subtitles never caught on for legal streaming. But granted, the advantage of simple .srt subs makes them accessible and flexible to any player out there. It does mean a lot of the depth in understanding a show gets lost along the way :( \n\nI saw someone say they used to add translator notes in the subs, which is amazing in introducing the viewer to aspects of the culture and establishing the context for jokes. I miss that, but also I don't miss the days of [over-explaining](https://i.kym-cdn.com/photos/images/original/000/068/230/checkmate.jpg) or [having a translator note for the sake of it](https://i.kym-cdn.com/photos/images/original/000/037/923/keikaku.jpg) lol hahahaha",
+            "author": "boinkky",
+            "id": "iwl8qtr",
+            "parent_id": "t1_iwjxiwu",
+            "score": 1,
+            "created_utc": 1668606782.0,
+            "replies": []
+        }
+    ]
+}
