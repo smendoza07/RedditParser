@@ -1,5 +1,3 @@
-Here's the text converted to Markdown format with links to each section:
-
 # Reddit Search App with Flask and Lucene
 
 This project consists of two main parts:
